@@ -20,7 +20,7 @@ export default function Hero() {
           Kancelaria Prawna
         </h2>
         <h1 className="text-6xl md:text-8xl lg:text-9xl font-serif font-bold tracking-tight mb-8">
-          BLSK Legal
+          ABC Legal
         </h1>
         <p className="text-xl md:text-2xl text-gray-400 max-w-2xl mx-auto font-light leading-relaxed">
           Eksperckie doradztwo prawne w zakresie arbitrażu, przetargów publicznych oraz podatków.
